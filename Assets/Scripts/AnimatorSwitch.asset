@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe96ffc346c353b41aadd97f34311501, type: 3}
+  m_Name: AnimatorSwitch
+  m_EditorClassIdentifier: 
+  bigController: {fileID: 9100000, guid: 4414ab8402374b14ba620fd75a9e7d37, type: 2}
+  smallController: {fileID: 9100000, guid: 9e43963f6c9b45a4c8cc4c1ac493a176, type: 2}
+  fireController: {fileID: 9100000, guid: 4d09359b111b34f4db248638d61ec885, type: 2}
